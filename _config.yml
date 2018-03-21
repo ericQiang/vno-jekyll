@@ -1,5 +1,5 @@
 # Basic
-title: Vno Jekyll
+title: eric Qiang
 subtitle: A blog-orientation theme for Jekyll
 welcome_message: <a href="https://github.com/ericQiang/ericQiang" target="_blank">Download the theme</a>
 description: fork form Vno Jekyll.
@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: ericQiang
     # duoshuo: 
     
 # Social
